@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MinervaApplication<ms-schoolmgmt>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.dncoyote.minerva.MinervaApplication",
+            "projectName": "ms-schoolmgmt",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
