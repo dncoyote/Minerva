@@ -9,6 +9,7 @@
     </parent>
     <packaging>pom</packaging>
     <modules>
+        <module>ms-apigateway</module>
         <module>ms-schoolmgmt</module>
         <module>ms-librarymgmt</module>
 
